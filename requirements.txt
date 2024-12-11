@@ -1,0 +1,8 @@
+fastapi[standard]
+redis
+types-redis
+uvicorn
+joblib
+numpy
+pandas
+scikit-learn
